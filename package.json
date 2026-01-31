@@ -1,0 +1,23 @@
+{
+  "name": "websitecrawlerhttps",
+  "version": "1.0.0",
+  "description": "A tool to crawl an inputed website of useful information",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnCPiersoniii/websiteCrawlerhttps.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohnCPiersoniii/websiteCrawlerhttps/issues"
+  },
+  "homepage": "https://github.com/JohnCPiersoniii/websiteCrawlerhttps#readme",
+  "devDependencies": {
+    "jest": "^29.6.4"
+  }
+}
