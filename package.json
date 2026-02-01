@@ -4,7 +4,7 @@
   "description": "A tool to crawl an inputed website of useful information",
   "main": "main.js",
   "scripts": {
-    "start": "node main.js",
+    "start": "node --no-warnings main.js",
     "test": "jest"
   },
   "repository": {
